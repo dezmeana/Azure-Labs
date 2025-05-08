@@ -1,3 +1,4 @@
+# written for Azure poweshell
 # Preferences
 $WarningPreference = 'SilentlyContinue'
 
